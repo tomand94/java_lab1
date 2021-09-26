@@ -29,6 +29,7 @@ public class Main {
         int a = 20;
         int b = 15;
 
+
         System.out.println("a+b=" + (a+b) + ", a-b=" + (a-b) + ", a*b=" + (a*b) + ", a/b=" + (a/b) + ", a%b=" + (a%b));
     }
 }
